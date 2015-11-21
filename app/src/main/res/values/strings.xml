@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="action_settings">Settings</string>
+    <string name="n1">primer numero</string>
+    <string name="n2">segundo numero</string>
+
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="multiplicacion">*</string>
+    <string name="division">/</string>
+
+</resources>
